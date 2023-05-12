@@ -1,0 +1,29 @@
+.vd{
+    padding-left: 10%;
+    margin-right: auto;
+    padding-right: 10%;
+    
+}
+body{
+    background-image : url(images/pngtre.jpg);
+    background-position: center; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+.vs{
+    background-color: red;
+    color: white;
+}
+.fq{
+    border: double;
+}
+.col{
+    height: auto;
+    width: fit-content;
+}
+.grp{
+    height: 610px;
+    width: 1342px;
+}
